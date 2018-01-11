@@ -1,0 +1,9 @@
+
+
+dir *ppm /s /b > file-paths-00042.txt
+
+// this basic command take whole file path of ppm formatted 
+images which into folder and write on a text file
+
+/s -> subfolder
+/b-> bare format(no file size or summary)
