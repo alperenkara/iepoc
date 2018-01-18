@@ -19,10 +19,9 @@
 #include <vector>
 #include <iostream>
 #include <fstream>
-#include <iostream>
 #include <fstream>
 #include <string>
-#include <string.h>
+
 using namespace cv;
 using namespace std;
 
